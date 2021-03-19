@@ -157,7 +157,11 @@ tags:   [Uang]
 
 <table>
   <tr>
-    <th>Total</th>
+    <th>Budget</th>
+    <th>1.000.000</th>
+  </tr>
+  <tr>
+    <th>Terpakai</th>
     <th>615.000</th>
   </tr>
   <tr>
