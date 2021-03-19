@@ -2,7 +2,7 @@
 # General Site Settings
 
 title: Maen_X | Data Tester
-description: Testing input data # this means to ignore newlines until "baseurl:"
+description: Testing input data in daily# this means to ignore newlines until "baseurl:"
 baseurl: "/data" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -10,7 +10,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #-------------------------------
 # About Section
 author-name:   Maen_X
-author-avatar: 09.jpg
+author-avatar: 
 
 
 #-------------------------------
@@ -23,7 +23,7 @@ pinterest: https://www.pinterest.com/ # Add your Facebook handle
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier:  # Add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
