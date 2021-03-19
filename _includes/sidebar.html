@@ -23,30 +23,8 @@
   {% else %}
   {% endif %}
 
-  <div class="widget widget-social">
-    <h3 class="widget-title">Follow</h3>
-    <ul class="social-profiles list-reset">
-      {% if site.instagram %}
-      <li class="social-profiles-item">
-        <a href="{{ site.instagram }}maenx" target="_blank" class="social-profiles-link"><i class="ion ion-logo-instagram"></i></a>
-      </li>
-      {% else %} {% endif %}
-    </ul>
-  </div>
-
-
-  {% if site.instafeed == true %}
-  <div class="widget widget-instagram">
-    <h3 class="widget-title">Instagram</h3>
-    <div class="instagram-box">
-      <ul id="instafeed" class="instagram-grid list-reset clearfix"></ul>
-      <a class="instagram-prof" href="{{ site.instagram }}maenx">&#64;maen_x</a>
-    </div>
-  </div>
-  {% endif %}
-
   <div class="widget widget-tags">
-    <h3 class="widget-title">Tag Cloud</h3>
+    <h3 class="widget-title">Arsip</h3>
     {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{%
     endcapture %} {% assign tag_words = site_tags | split:',' | sort %}
     <ul class="tag-list list-reset">
