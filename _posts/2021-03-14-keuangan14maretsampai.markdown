@@ -7,7 +7,8 @@ tags:   [Uang]
 ---
 <table>
   <tr>
-    <th>14 Marer</th>
+    <th>14 Maret</th>
+    <th>2021</th>
   </tr>
   <tr>
     <td>Belanja</td>
@@ -24,5 +25,143 @@ tags:   [Uang]
   <tr>
     <th>Total</th>
     <th>105.000</th>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>15 Maret</th>
+    <th>2021</th>
+  </tr>
+  <tr>
+    <td>Beras</td>
+    <td>140.000</td>
+  </tr>
+  <tr>
+    <td>Telur</td>
+    <td>45.000</td>
+  </tr>
+  <tr>
+    <td>Sapu</td>
+    <td>17.000</td>
+  </tr>
+  <tr>
+    <td>Belanja</td>
+    <td>48.000</td>
+  </tr>
+  <tr>
+    <td>Token</td>
+    <td>50.000</td>
+  </tr>
+  <tr>
+    <td>Batrai</td>
+    <td>5.000</td>
+  </tr>
+  <tr>
+    <td>Es</td>
+    <td>10.000</td>
+  </tr>
+  <tr>
+    <td>Intermie</td>
+    <td>5.000</td>
+  </tr>
+  <tr>
+    <th>Total</th>
+    <th>320.000</th>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>16 Maret</th>
+    <th>2021</th>
+  </tr>
+  <tr>
+    <td>Gorengan</td>
+    <td>15.000</td>
+  </tr>
+  <tr>
+    <td>Belanja</td>
+    <td>46.000</td>
+  </tr>
+  <tr>
+    <th>Total</th>
+    <th>61.000</th>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>17 Maret</th>
+    <th>2021</th>
+  </tr>
+  <tr>
+    <td>Sanger</td>
+    <td>14.000</td>
+  </tr>
+  <tr>
+    <td>Belanja</td>
+    <td>36.000</td>
+  </tr>
+  <tr>
+    <th>Total</th>
+    <th>50.000</th>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>18 Maret</th>
+    <th>2021</th>
+  </tr>
+  <tr>
+    <td>Bensin</td>
+    <td>20.000</td>
+  </tr>
+  <tr>
+    <td>Cabai</td>
+    <td>9.000</td>
+  </tr>
+  <tr>
+    <td>Intermie</td>
+    <td>5.000</td>
+  </tr>
+  <tr>
+    <th>Total</th>
+    <th>34.000</th>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>19 Maret</th>
+    <th>2021</th>
+  </tr>
+  <tr>
+    <td>Sanger</td>
+    <td>15.000</td>
+  </tr>
+  <tr>
+    <td>Belanja</td>
+    <td>20.000</td>
+  </tr>
+  <tr>
+    <td>Rokok</td>
+    <td>10.000</td>
+  </tr>
+  <tr>
+    <th>Total</th>
+    <th>45.000</th>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>Total</th>
+    <th>615.000</th>
+  </tr>
+  <tr>
+    <th>Sisa</th>
+    <th>385.000</th>
   </tr>
 </table>
