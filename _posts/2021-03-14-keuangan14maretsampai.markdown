@@ -150,8 +150,12 @@ tags:   [Uang]
     <td>10.000</td>
   </tr>
   <tr>
+    <td>Air</td>
+    <td>5.000</td>
+  </tr>
+  <tr>
     <th>Total</th>
-    <th>45.000</th>
+    <th>50.000</th>
   </tr>
 </table>
 
@@ -162,10 +166,10 @@ tags:   [Uang]
   </tr>
   <tr>
     <th>Terpakai</th>
-    <th>615.000</th>
+    <th>620.000</th>
   </tr>
   <tr>
     <th>Sisa</th>
-    <th>385.000</th>
+    <th>380.000</th>
   </tr>
 </table>
