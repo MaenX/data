@@ -161,15 +161,42 @@ tags:   [Uang]
 
 <table>
   <tr>
+    <th>20 Maret</th>
+    <th>2021</th>
+  </tr>
+  <tr>
+    <td>Belanja</td>
+    <td>65.000</td>
+  </tr>
+  <tr>
+    <td>Belanja</td>
+    <td>20.000</td>
+  </tr>
+  <tr>
+    <td>Rokok&Es</td>
+    <td>15.000</td>
+  </tr>
+  <tr>
+    <td>Bensin</td>
+    <td>10.000</td>
+  </tr>
+  <tr>
+    <th>Total</th>
+    <th>90.000</th>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <th>Budget</th>
     <th>1.000.000</th>
   </tr>
   <tr>
     <th>Terpakai</th>
-    <th>620.000</th>
+    <th>710.000</th>
   </tr>
   <tr>
     <th>Sisa</th>
-    <th>380.000</th>
+    <th>290.000</th>
   </tr>
 </table>
