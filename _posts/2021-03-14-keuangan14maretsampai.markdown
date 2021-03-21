@@ -3,7 +3,7 @@ layout: post
 title:  Keuangan 14 Maret Sampai?..
 date:   2021-03-14 16:05:55 +0300
 image:  
-tags:   [Uang]
+tags:   Uang
 ---
 <table>
   <tr>
