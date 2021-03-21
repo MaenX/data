@@ -12,7 +12,7 @@ tags:   [Hutang]
   </tr>
   <tr>
     <td>Dimas</td>
-    <td>30.000</td>
+    <td>40.000</td>
   </tr>
   <tr>
     <td>Sandi</td>
@@ -24,6 +24,6 @@ tags:   [Hutang]
   </tr>
   <tr>
     <th>Total</th>
-    <th>53.000</th>
+    <th>63.000</th>
   </tr>
 </table>
