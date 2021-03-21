@@ -169,10 +169,6 @@ tags:   [Uang]
     <td>65.000</td>
   </tr>
   <tr>
-    <td>Belanja</td>
-    <td>20.000</td>
-  </tr>
-  <tr>
     <td>Rokok&Es</td>
     <td>15.000</td>
   </tr>
