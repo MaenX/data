@@ -219,3 +219,5 @@ tags:   Uang
     <th>252.000</th>
   </tr>
 </table>
+
+> Team maintenance pulang tgl 19 maret 2021, ikut gabung makan saat makan malam.
