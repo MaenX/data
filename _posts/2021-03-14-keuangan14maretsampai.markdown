@@ -207,16 +207,39 @@ tags:   Uang
 
 <table>
   <tr>
+    <th>21 Maret</th>
+    <th>2021</th>
+  </tr>
+  <tr>
+    <td>Bensin</td>
+    <td>20.000</td>
+  </tr>
+  <tr>
+    <td>Gorengan&Es</td>
+    <td>15.000</td>
+  </tr>
+  <tr>
+    <td>Belanja</td>
+    <td>47.000</td>
+  </tr>
+  <tr>
+    <th>Total</th>
+    <th>82.000</th>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <th>Budget</th>
     <th>1.000.000</th>
   </tr>
   <tr>
     <th>Terpakai</th>
-    <th>748.000</th>
+    <th>830.000</th>
   </tr>
   <tr>
     <th>Sisa</th>
-    <th>252.000</th>
+    <th>170.000</th>
   </tr>
 </table>
 
