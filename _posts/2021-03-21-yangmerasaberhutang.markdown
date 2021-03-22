@@ -27,10 +27,10 @@ tags:   [Hutang]
     <td>18.000</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
     <td>Jamal</td>
+    <td></td>
     <td>20.000</td>
+    <td></td>
   </tr>
   <tr>
     <th>Total</th>
