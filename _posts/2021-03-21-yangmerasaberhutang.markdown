@@ -25,7 +25,7 @@ tags:   [Hutang]
     <td>5.000</td>
   </tr>
   <tr>
-    <td>Sandi</td>
+    <td>Yuda</td>
     <td>18.000</td>
     <td></td>
     <td>18.000</td>
@@ -34,7 +34,7 @@ tags:   [Hutang]
     <td>Jamal</td>
     <td></td>
     <td>20.000</td>
-    <td></td>
+    <td>20.000</td>
   </tr>
   <tr>
     <th>Total</th>
