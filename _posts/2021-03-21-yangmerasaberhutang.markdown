@@ -7,8 +7,8 @@ tags:   [Hutang]
 ---
 <table>
   <tr>
-    <th>21 Maret</th>
     <th></th>
+    <th>21 Maret</th>
     <th>22 Maret</th>
     <th>Total</th>
   </tr>
@@ -21,9 +21,13 @@ tags:   [Hutang]
   <tr>
     <td>Sandi</td>
     <td>5.000</td>
+    <td></td>
+    <td>5.000</td>
   </tr>
   <tr>
-    <td>Yuda</td>
+    <td>Sandi</td>
+    <td>18.000</td>
+    <td></td>
     <td>18.000</td>
   </tr>
   <tr>
@@ -34,6 +38,8 @@ tags:   [Hutang]
   </tr>
   <tr>
     <th>Total</th>
+    <th></th>
+    <th></th>
     <th>93.000</th>
   </tr>
 </table>
