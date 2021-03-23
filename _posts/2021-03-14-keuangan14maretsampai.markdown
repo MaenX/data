@@ -207,7 +207,7 @@ tags:   Uang
 
 <table>
   <tr>
-    <th>21 Maret</th>
+    <th>22 Maret</th>
     <th>2021</th>
   </tr>
   <tr>
@@ -230,16 +230,39 @@ tags:   Uang
 
 <table>
   <tr>
+    <th>23 Maret</th>
+    <th>2021</th>
+  </tr>
+  <tr>
+    <td>Bensin</td>
+    <td>10.000</td>
+  </tr>
+  <tr>
+    <td>Belanja</td>
+    <td>15.000</td>
+  </tr>
+  <tr>
+    <td>Mancis</td>
+    <td>1.000</td>
+  </tr>
+  <tr>
+    <th>Total</th>
+    <th>26.000</th>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <th>Budget</th>
     <th>1.000.000</th>
   </tr>
   <tr>
     <th>Terpakai</th>
-    <th>830.000</th>
+    <th>856.000</th>
   </tr>
   <tr>
     <th>Sisa</th>
-    <th>170.000</th>
+    <th>144.000</th>
   </tr>
 </table>
 
