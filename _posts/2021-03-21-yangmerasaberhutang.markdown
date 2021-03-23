@@ -10,12 +10,14 @@ tags:   [Hutang]
     <th></th>
     <th>21 Maret</th>
     <th>22 Maret</th>
+    <th>23 Maret</th>
     <th>Total</th>
   </tr>
   <tr>
     <td>Dimas</td>
     <td>40.000</td>
     <td>10.000</td>
+    <td></td>
     <td>50.000</td>
   </tr>
   <tr>
@@ -23,10 +25,12 @@ tags:   [Hutang]
     <td>5.000</td>
     <td></td>
     <td>5.000</td>
+    <td>10.000</td>
   </tr>
   <tr>
     <td>Yuda</td>
     <td>18.000</td>
+    <td></td>
     <td></td>
     <td>18.000</td>
   </tr>
@@ -34,12 +38,14 @@ tags:   [Hutang]
     <td>Jamal</td>
     <td></td>
     <td>20.000</td>
+    <td></td>
     <td>20.000</td>
   </tr>
   <tr>
     <th>Total</th>
     <th></th>
     <th></th>
-    <th>93.000</th>
+    <th></th>
+    <th>98.000</th>
   </tr>
 </table>
