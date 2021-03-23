@@ -239,7 +239,7 @@ tags:   Uang
   </tr>
   <tr>
     <td>Belanja</td>
-    <td>15.000</td>
+    <td>18.000</td>
   </tr>
   <tr>
     <td>Mancis</td>
@@ -247,7 +247,7 @@ tags:   Uang
   </tr>
   <tr>
     <th>Total</th>
-    <th>26.000</th>
+    <th>29.000</th>
   </tr>
 </table>
 
@@ -258,11 +258,11 @@ tags:   Uang
   </tr>
   <tr>
     <th>Terpakai</th>
-    <th>856.000</th>
+    <th>859.000</th>
   </tr>
   <tr>
     <th>Sisa</th>
-    <th>144.000</th>
+    <th>141.000</th>
   </tr>
 </table>
 
