@@ -2,7 +2,7 @@
 layout: post
 title: Standarisasi Instalasi PSB
 date: 2021-04-01 16:05:55 +0300
-image:  
+image: img-1.jpeg
 tags: PSB
 ---
 
